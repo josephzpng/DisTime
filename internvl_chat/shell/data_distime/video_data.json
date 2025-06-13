@@ -1,0 +1,9 @@
+{
+    "ET_instruct_136k_v2": {
+        "root": "data/ET-Instruct-164K/videos",
+        "annotation": "data/ET-Instruct-164K/InternVL-format/V2/et_instruct_136k_TIME_STAMP_inetrnvl2.jsonl",
+        "data_augment": false,
+        "repeat_time": 1,
+        "length": 136076
+    }
+}
