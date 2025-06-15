@@ -9,7 +9,7 @@ Please refer to  [INSTALLATION](https://github.com/OpenGVLab/InternVL/blob/main/
 
 ## Model and Data
 
-The file will be uploaded after it has been reviewed.
+The files would be uploaded after being reviewed.
 
 ## Data construction
 
