@@ -7,7 +7,7 @@ This is the implementation of Paper: [DisTime: Distribution-based Time Represent
 
 Please refer to  [INSTALLATION](https://github.com/OpenGVLab/InternVL/blob/main/INSTALLATION.md)
 
-## Model
+## Model and Data
 
 The file will be uploaded after it has been reviewed.
 
