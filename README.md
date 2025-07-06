@@ -1,7 +1,7 @@
 DisTime: Distribution-based Time Representation for Video Large Language Models
 ===
 
-This is the implementation of Paper: [DisTime: Distribution-based Time Representation for Video Large Language Models](https://arxiv.org/abs/2505.24329)
+This is the implementation of Paper: [DisTime: Distribution-based Time Representation for Video Large Language Models](https://arxiv.org/abs/2505.24329) (ICCV 2025).
 
 ## Installation
 
