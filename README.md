@@ -1,4 +1,4 @@
-DisTime: Distribution-based Time Representation for Video Large Language Models
+[ICCV2025] DisTime: Distribution-based Time Representation for Video Large Language Models
 ===
 
 <a href='https://arxiv.org/abs/2505.24329'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> <a href='https://huggingface.co/datasets/yingsen/internvid-tg'><img src='https://img.shields.io/badge/Dataset-Internvid--TG-green'>
