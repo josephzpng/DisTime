@@ -1,7 +1,15 @@
 DisTime: Distribution-based Time Representation for Video Large Language Models
 ===
 
+<a href='https://arxiv.org/abs/2505.24329'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> <a href='https://huggingface.co/datasets/yingsen/internvid-tg'><img src='https://img.shields.io/badge/Dataset-Internvid--TG-green'>
+[![GitHub](https://img.shields.io/github/stars/josephzpng/DisTime?style=social)](https://github.com/josephzpng/DisTime)
+
+
 This is the implementation of Paper: [DisTime: Distribution-based Time Representation for Video Large Language Models](https://arxiv.org/abs/2505.24329) (ICCV 2025).
+
+<div align="center">
+  <img src="./images/network.png" width="600px"/>
+</div>
 
 ## Installation
 
@@ -13,7 +21,15 @@ Please refer to  [INSTALLATION](https://github.com/OpenGVLab/InternVL/blob/main/
 - [DisTime-1B](https://huggingface.co/UserJoseph/DisTime-1B)
 - [DisTime-8B](https://huggingface.co/UserJoseph/DisTime-8B) 
 
-The data would be uploaded after being reviewed.
+### InternVid-TG
+
+In this paper, we propose an automated annotation paradigm that combines the captioning capabilities of Video-LLMs with the localization expertise of dedicated temporal models. With these methods, we construct the InternVid-TG dataset. The dataset is released at https://huggingface.co/datasets/yingsen/internvid-tg.
+
+<div align="center">
+  <img src="./images/internvid-tg.png" width="600px"/>
+</div>
+
+
 
 ## Data construction
 
@@ -125,6 +141,20 @@ GPUS=8 sh internvl_chat/evaluate.sh checkpoint/DisTime/DisTime-InternVL2_5-1B mv
 # evaluate and metric
 GPUS=8 sh internvl_chat/evaluate.sh checkpoint/DisTime/DisTime-InternVL2_5-1B longvideobench
 ```
+
+## Citation
+
+```
+@article{zeng2025distime,
+  title={DisTime: Distribution-based Time Representation for Video Large Language Models},
+  author={Zeng, Yingsen and Huang, Zepeng and Zhong, Yujie and Feng, Chengjian and Hu, Jie and Ma, Lin and Liu, Yang},
+  journal={arXiv preprint arXiv:2505.24329},
+  year={2025}
+}
+```
+
+
+
 
 ## Acknowledgement
 
