@@ -1,7 +1,9 @@
 [ICCV2025] DisTime: Distribution-based Time Representation for Video Large Language Models
 ===
 
-<a href='https://arxiv.org/abs/2505.24329'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> <a href='https://huggingface.co/datasets/yingsen/internvid-tg'><img src='https://img.shields.io/badge/Dataset-Internvid--TG-green'>
+<a href='https://arxiv.org/abs/2505.24329'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> <a href='https://huggingface.co/datasets/yingsen/internvid-tg'><img src='https://img.shields.io/badge/Dataset-Internvid--TG-green'><a href='https://huggingface.co/UserJoseph/DisTime-1B'><img src='https://img.shields.io/badge/Model-DisTime--1B-blue
+'><a href='https://huggingface.co/UserJoseph/DisTime-8B'><img src='https://img.shields.io/badge/Model-DisTime--8B-blue
+'>
 [![GitHub](https://img.shields.io/github/stars/josephzpng/DisTime?style=social)](https://github.com/josephzpng/DisTime)
 
 
